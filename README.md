@@ -5,3 +5,5 @@ Aztec is more than ‘just’ a layer 2 solution for Ethereum. It’s chain agno
 This repository consists of multiple chains which all include the specific code(contracts) and data from that specific chain. This data could be anything from tech (e.g. gas fees) to business (demand from this specific chain for Aztec connect).
 
 Feel free to contribute.
+
+# Suitable chains
