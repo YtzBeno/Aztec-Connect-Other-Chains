@@ -20,4 +20,4 @@ Feel free to contribute.
 - Polygon ✔️
 - Fantom ✔️
 
-(The main factor which determines if a chain is suitable or not is that you have the verifier work within the setup. It basically should allow you to perform curve operations as these are used when verifying proofs. In EVM chains this is done by something called a ´precompiler´. Therefor if a chain doesn´t have something similar to this(precompilers), then it isn´t suitable.)
+(The main factor which determines if a chain is suitable or not is that you need to have the verifier work within the setup. It basically should allow you to perform curve operations as these are used when verifying proofs. In EVM chains this is done by something called a ´precompiler´. Therefor if a chain doesn´t have something similar to this(precompilers), then it isn´t suitable.)
