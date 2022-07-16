@@ -8,6 +8,7 @@ Feel free to contribute.
 
 # Suitable chains
 
+- Ethereum ✔️
 - Optimism ✔️
 - Arbitrum ✔️
 - zkSync ✖️
